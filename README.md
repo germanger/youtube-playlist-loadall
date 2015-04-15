@@ -16,3 +16,7 @@ A content_script that is triggered when the tab matches `*://*.youtube.com/*`. I
 When these conditions are met, it tells `background.js` to display the icon in the address bar
 
 `clickLoadMoreUntilItDoesntExist()` is self explanatory: it programatically clicks the "load more" button until it doesn't exist (youtube removes the button when all the items are fetched)
+
+## Screenshot
+
+![The extension](https://raw.githubusercontent.com/germanger/youtube-playlist-loadall/master/chromestore/promotional-440x280.jpg)
