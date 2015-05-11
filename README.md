@@ -1,6 +1,9 @@
 # youtube-playlist-loadall
 A Chrome extension that lets you display all the items from a youtube playlist
 
+## Chromestore
+This extension is available in Google Chromestore: https://chrome.google.com/webstore/detail/youtube-playlist-load-all/pbclhlmcclobinpephoflilgclodhnmf
+
 ## How it works
 
 ### background.js
